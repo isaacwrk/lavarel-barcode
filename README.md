@@ -156,6 +156,10 @@ And now we have everything to test our barcode, so run
 
     php artisan serve
 
+by default, laravel uses port 8000 so you can test your routes created there!
+
+    localhost:8000/barcode
+
 And this is the expected result!
 
 ![](https://github.com/isaacwrk/js-exercises/blob/master/ex/barcode.png)
