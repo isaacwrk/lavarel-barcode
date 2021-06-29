@@ -156,4 +156,7 @@ And now we have everything to test our barcode, so run
 
     php artisan serve
 
+And this is the expected result!
+
+![](https://github.com/isaacwrk/js-exercises/blob/master/ex/barcode.png)
 
